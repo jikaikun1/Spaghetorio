@@ -9938,6 +9938,7 @@ data:extend({
     icon = "__Spaghetorio__/graphics/krastorio/icons/entities/advanced-chemical-plant.png",
     icon_size = 64,
     icon_mipmaps = 4,
+    weight=1000 * kg,
     subgroup = "production-machine",
     order = "e[chemical-plant]-b[advanced-chemical-plant]",
     place_result = "sp-kr-advanced-chemical-plant",
